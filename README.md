@@ -19,3 +19,10 @@ Two alternative systems are proposed and compared to the original system. These 
 
 ## Proposed Improvement Policies
 The project suggests improvement policies based on sensitivity analysis. These policies aim to address system bottlenecks, reduce waiting times, and enhance overall system performance.
+
+## Authors
+Roxana Khabazzadeh Moghadam
+
+Ehsan Kehtari
+
+Undergraduate Students at Sharif University of Technology
