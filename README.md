@@ -6,11 +6,12 @@ This project involves a one-month simulation of an insurance claim center. The c
 The project focuses on modeling an auto insurance claim center that operates from 8 a.m. to 6 p.m. Customers may arrive separately, but they must be together for the entire process. The simulation covers various aspects, including wait times and system performance.
 
 ## Key Results
-The center operates beyond its scheduled hours, with an average closing time of 2:58 AM.
-Customers spend an average of over 5 hours in the system.
-The investigation unit experiences high employee utilization and long customer wait times.
-Sensitivity analysis provides insights into system performance under different parameter changes.
-Results of Sensitivity Analysis
+* The center operates beyond its scheduled hours, with an average closing time of 2:58 AM.
+* Customers spend an average of over 5 hours in the system.
+* The investigation unit experiences high employee utilization and long customer wait times.
+* Sensitivity analysis provides insights into system performance under different parameter changes.
+
+## Results of Sensitivity Analysis
 The sensitivity analysis explores the impact of changes in parameters such as staffing, photography duration, investigation time, and complaint probability on system performance.
 
 ## Alternative Systems Proposed
